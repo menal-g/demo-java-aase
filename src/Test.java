@@ -2,9 +2,10 @@ class Test{
     public static void main(String[] args) {
         System.out.println("Hello");
 
-        String name = "Gannoruwa"
+        String name = "Gannoruwa";
+
+        System.out.println(name);
 
     }
-
 }
 
